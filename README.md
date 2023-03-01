@@ -18,15 +18,6 @@ In this project, let's build a **Capitals App** by applying the concepts we have
 
 </details>
 
-### Set Up Instructions
-
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
-
 ### Completion Instructions
 
 <details>
@@ -56,32 +47,3 @@ Use these files to complete the implementation:
 - `src/components/Capitals/index.js`
 - `src/components/Capitals/index.css`
 </details>
-
-### Resources
-
-<details>
-<summary>Colors</summary>
-
-<br/>
-
-<div style="background-color: #93c5fd; width: 150px; padding: 10px; color: white">Hex: #93c5fd</div>
-<div style="background-color: #f8fafc; width: 150px; padding: 10px; color: black">Hex: #f8fafc</div>
-<div style="background-color: #cbd2d9; width: 150px; padding: 10px; color: black">Hex: #cbd2d9</div>
-<div style="background-color: #323f4b; width: 150px; padding: 10px; color: white">Hex: #323f4b</div>
-<div style="background-color: #000000; width: 150px; padding: 10px; color: white">Hex: #000000</div>
-<div style="background-color: #1e293b; width: 150px; padding: 10px; color: white">Hex: #1e293b</div>
-</details>
-
-<details>
-<summary>Font-families</summary>
-
-- Roboto
-
-</details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
